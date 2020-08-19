@@ -1,0 +1,58 @@
+{
+  "Products": [
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
+      "title": "Sport Shoes",
+      "description": "Detailed description of the product",
+      "price": 110
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
+      "title": "Red SNEAKER",
+      "description": "Detailed description of the product",
+      "price": 91
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
+      "title": "Sport Shoes Women",
+      "description": "Detailed description of the product",
+      "price": 94
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
+      "title": "Winter boots children",
+      "description": "Detailed description of the product",
+      "price": 143
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
+      "title": "Sports shoes Red-White",
+      "description": "Detailed description of the product",
+      "price": 150
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
+      "title": "Black leather shoes",
+      "description": "Detailed description of the product",
+      "price": 250
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
+      "title": "Shoes Canvas",
+      "description": "Detailed description of the product",
+      "price": 50
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
+      "title": "Shoes White",
+      "description": "Detailed description of the product",
+      "price": 85
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
+      "title": "Sneakers Yellow",
+      "description": "Detailed description of the product",
+      "price": 125
+    }
+  ]
+}
